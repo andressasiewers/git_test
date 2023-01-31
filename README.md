@@ -4,12 +4,12 @@ Hello Odin!
 
 ## Cheatsheet
 
-    This is a reference list of the most commonly used Git commands.
+   This is a reference list of the most commonly used Git commands.
 
 ### git clone git@github.com:USER-NAME/REPOSITORY-NAME.git 
 ### git push or git push origin main
 
-    Commands related to a remote repository
+   Commands related to a remote repository
 
 ### git status
 
